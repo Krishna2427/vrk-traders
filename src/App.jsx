@@ -18,8 +18,8 @@ import { products } from "./products"
 import CoconutLoader from "./components/CoconutLoader"
 
 const BUSINESS_EMAIL = "venkatch.9640@gmail.com"
-const BUSINESS_PHONE = "+91 93982 45558"
-const BUSINESS_PHONE_RAW = "919398245558"
+const BUSINESS_PHONE = "+91 96409 02162"
+const BUSINESS_PHONE_RAW = "919640902162"
 
 function WhatsAppIcon({ size = 16, className = "" }) {
   return (
